@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="board_size">
+        <item>6 by 6</item>
+        <item>8 by 8</item>
+    </string-array>
+
+    <string-array name="player_type">
+        <item>Computer</item>
+        <item>Player 2</item>
+    </string-array>
+</resources>
